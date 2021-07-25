@@ -1,2 +1,0 @@
-Hotel Management System: 
-Project to handle the backend of a sample hotel business using Core Java. 
